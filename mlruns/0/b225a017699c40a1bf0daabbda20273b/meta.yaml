@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/iNeuron/Python/14.%20Machine%20Learning/1.%20Linear%20%26%20Logistic%20Regression/MLFLOW_DVC_DEMO/mlruns/0/b225a017699c40a1bf0daabbda20273b/artifacts
+end_time: 1706870294405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b225a017699c40a1bf0daabbda20273b
+run_name: calm-quail-893
+run_uuid: b225a017699c40a1bf0daabbda20273b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706870294340
+status: 3
+tags: []
+user_id: mkumawat
